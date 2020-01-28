@@ -1,1 +1,2 @@
 First branch in Github.
+Second modification in Branch1 after merging with Master.
